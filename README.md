@@ -1,4 +1,4 @@
 # CT-covid-19-classification
 
-#Acknowledgment
+## Acknowledgment
 - https://github.com/UCSD-AI4H/COVID-CT
